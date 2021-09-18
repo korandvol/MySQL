@@ -3,4 +3,4 @@ This repository consists of MySQL 8 examples:
 - relationship between tables
 - JOIN
 - instagram clone database
-- removing data from db
+- removing data from db examples
